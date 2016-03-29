@@ -12,9 +12,9 @@ This document has been prepared to describe my course project submission for Cou
 
 * run_analysis.R
 * summarized_UCI_HAR.txt
-* project_codebook.pdf #make sure to include this
+* codebook.md
 
-This assignment was conducted using data provided by UCI's Machine Learning Repository. 
+This assignment was completed using data provided by UCI's Machine Learning Repository. 
 
 * Link to a zip file containing all of the data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * The site where the data was acquired from, which includes a description of the data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
