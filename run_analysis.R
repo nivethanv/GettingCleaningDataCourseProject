@@ -38,4 +38,4 @@ finalsummary<-selectdata %>%
 finalsummary<-as.data.frame(finalsummary)
 
 #create file with summarized data
-write.table(finalsummary,"summarized_UCI_HAR.txt")
+write.table(finalsummary,"summarized_UCI_HAR.txt", row.name=FALSE)
