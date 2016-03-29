@@ -110,5 +110,5 @@ write.table(finalsummary,"summarized_UCI_HAR.txt")
 ```
 The `summarized_UCI_HAR.txt` data table is already included as part of this course project submission. If you want to skip all of the steps we took to generate it, you can download it, place it in your working directory, and load it into your workspace using the following command:
 ```
-summarizedTable<-read.table("summarized_UCI_HAR.txt")
+summarizedTable<-read.table("summarized_UCI_HAR.txt", row.name=FALSE)
 ```
